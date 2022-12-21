@@ -8,10 +8,6 @@
 <p>I’m currently working as Product design and junior developer at Agroop.</p> 
 <p>Learning React and Kotlin 👨🏻‍💻!</p> </br>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bururo&layout=compact)
-
-
 📫 How to reach me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/rod89/" target="_blank">
