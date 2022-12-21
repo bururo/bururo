@@ -10,12 +10,12 @@
 
 📫 How to reach me:
 <div id="badges">
-  <a href="https://www.linkedin.com/in/rod89/" target="_blank">
+  <a href="https://www.linkedin.com/in/rod89/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:rodrigues.dgm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  <a href="https://twitter.com/rodrigues_dgm" target="_blank">
+  <a href="https://twitter.com/rodrigues_dgm">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
