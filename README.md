@@ -1,6 +1,5 @@
 <img src="https://media.giphy.com/media/Wj116ZszUZEwRIoz0j/giphy.gif" width="100px"/>
 <p>I’m currently working as Product design and junior developer at Agroop.</p> 
-<p>Learning React and Kotlin 👨🏻‍💻!</p> </br>
 
 📫 How to reach me:
 <div id="badges">
